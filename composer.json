@@ -17,13 +17,13 @@
         }
     ],
     "require": {
-        "php": ">=8.0",
+        "php": ">=8.1",
         "ionux/phactor": "1.0.8",
         "kornrunner/keccak": "^1.0",
         "sop/asn1": "^3.3",
         "sop/crypto-encoding": "^0.2.0",
         "sop/crypto-types": "^0.2.1",
-        "phpseclib/phpseclib": "~2.0.11",
+        "phpseclib/phpseclib": "^3.0",
         "guzzlehttp/guzzle": ">=6.5",
         "fenguoz/bip39-mnemonic-php": "~1.2.0",
         "fenguoz/minter-php-bip-44": "~1.0",
